@@ -1,0 +1,18 @@
+type: UnitFactory
+name: Deployer (Wraith)
+description: Deploys units specifically.
+size: 2
+unitType: wraith
+maxSpawn: 16
+produceTime: 60
+itemCapacity: 12
+consumes: {
+	power: 0.5
+	items: { items: [ compact-wraith/1 ] }
+}
+category: units
+requirements: [
+	titanium/15
+	lead/20
+	silicon/23
+]

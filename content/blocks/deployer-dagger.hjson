@@ -1,0 +1,17 @@
+type: UnitFactory
+name: Deployer (Dagger)
+description: Deploys units specifically.
+size: 2
+unitType: dagger
+maxSpawn: 16
+produceTime: 60
+itemCapacity: 12
+consumes: {
+	power: 0.5
+	items: { items: [ compact-dagger/1 ] }
+}
+category: units
+requirements: [
+	lead/28
+	silicon/23
+]

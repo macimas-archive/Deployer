@@ -1,0 +1,8 @@
+type: Item
+name: Compact Dagger
+description: A compact, and deployable dagger.
+color: 000000
+type: resource
+explosiveness: 0.2
+flammability: 0.5
+radioactivity: 0

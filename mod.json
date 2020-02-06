@@ -1,0 +1,7 @@
+{
+	"name": "Deployer",
+	"displayName": "Deployer",
+	"author": "[#b][USMP] [royal]mac[white]down[scarlet]two",
+	"description": "Adds factories that makes compact units that can traverse as an conveyor item, and deploy them in deployers.",
+	"version": 1.0,
+}

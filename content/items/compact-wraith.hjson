@@ -1,0 +1,8 @@
+type: Item
+name: Compact Wraith
+description: A compact, and deployable wraith.
+color: ffffff
+type: resource
+explosiveness: 0.2
+flammability: 0.5
+radioactivity: 0

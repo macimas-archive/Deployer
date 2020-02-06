@@ -1,0 +1,19 @@
+type: GenericCrafter
+name: Compactor (Dagger)
+description: Makes compact units.
+size: 2
+itemCapacity: 12
+outputItem: {
+	item: compact-dagger
+	amount: 1
+}
+consumes: {
+	power: 1.0
+	items: { items: [ silicon/6 ] }
+}
+craftTime: 72
+category: crafting
+requirements: [
+	lead/220
+	silicon/140
+]

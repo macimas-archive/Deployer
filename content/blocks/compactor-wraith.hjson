@@ -1,0 +1,20 @@
+type: GenericCrafter
+name: Compactor (Wraith)
+description: Makes compact units.
+size: 2
+itemCapacity: 12
+outputItem: {
+	item: compact-wraith
+	amount: 1
+}
+consumes: {
+	power: 1.0
+	items: { items: [ silicon/10, titanium/5 ] }
+}
+craftTime: 60
+category: crafting
+requirements: [
+	titanium/90
+	lead/120
+	silicon/135
+]
